@@ -1,15 +1,15 @@
 Item,Period (sec per instance),Colors,
-Baby is Born,0.23255814,#FFEFEF,
+Baby is born,0.23255814,#FFEFEF,
 Someone dies,0.5617977,#4EF13E,
-Visa Payment,0.0005,#660066,
-Someone posts to facebook,0.00002439,#0033CC,
-Someone post to twitter,0.0000069833,#00CCFF,
-Someone gets injuried in a car accident,14,#CC3333,
-Average Heart Beat,0.833333,#CC0000,
-one specie goes extinct ,420,#FFFFCC,
+Visa payment,0.0005,#660066,
+Someone posts to Facebook,0.00002439,#0033CC,
+Someone post to Twitter,0.0000069833,#00CCFF,
+Someone gets injured in a car accident,14,#CC3333,
+Average heart beat,0.833333,#CC0000,
+a species goes extinct ,420,#FFFFCC,
 a child dies of hunger,10,#99FF33,
-eaarthquake,0.003183,#996600,
-linux kernel patch,720,#9999CC,http://arstechnica.com/information-technology/2010/12/linux-kernel-13-million-lines-over-5-patches-per-hour/
+earthquake,0.003183,#996600,
+linux kernel is patched,720,#9999CC,http://arstechnica.com/information-technology/2010/12/linux-kernel-13-million-lines-over-5-patches-per-hour/
 computer crashes,5.23E-02,#FF9966,http://www.ask.com/question/how-many-computers-on-average-crash-each-year
 computer sold,0.08878378378,#B0B0B0,http://www.statisticbrain.com/computer-sales-statistics/
 cell phones sold,0.06973905352,#303030,http://techcrunch.com/2013/11/14/gartner-456m-phones-sold-in-q3-55-smartphone-android-at-82-share-samsung-a-flat-leader/
@@ -19,13 +19,18 @@ new startup worldwide,0.6307,#CCFFFF,http://www.moyak.com/papers/business-startu
 computer produced,0.07855,#CC66FF,http://wiki.answers.com/Q/How_many_computers_are_made_a_day?#slide=5
 Mac sold,1.752,#99CCCC,http://www.macworld.com/article/2062821/apple-by-the-numbers-mac-not-dead-yet.html
 Windows sold,0.0876,#660033,http://mashable.com/2012/07/03/mac-vs-pc-sales/
-android sold,0.1538176391,#66CC00,http://techcrunch.com/2013/11/14/gartner-456m-phones-sold-in-q3-55-smartphone-android-at-82-share-samsung-a-flat-leader/
-iphone sold,1.044238411,#9933FF,http://techcrunch.com/2013/11/14/gartner-456m-phones-sold-in-q3-55-smartphone-android-at-82-share-samsung-a-flat-leader/
+Android sold,0.1538176391,#66CC00,http://techcrunch.com/2013/11/14/gartner-456m-phones-sold-in-q3-55-smartphone-android-at-82-share-samsung-a-flat-leader/
+iPhone sold,1.044238411,#9933FF,http://techcrunch.com/2013/11/14/gartner-456m-phones-sold-in-q3-55-smartphone-android-at-82-share-samsung-a-flat-leader/
 an email is sent,0.000596685,#FF3300,http://marciaconner.com/blog/data-on-big-data/
-app download from apple,0.0012766,#CCCC33,same as above
+app download from Apple AppStore,0.0012766,#CCCC33,same as above
 tumblr posts,0.00222,#CC9933,same as above
-instgram photos,0.0167,#99FF66,same as above
-foursquare check-in,0.03,#999933,
+Instagram photo uploaded,0.0167,#99FF66,same as above
+Foursquare check-in,0.03,#999933,
 new website launch,0.105,#333333,
 mobile web activity,0.2764,#009933,
-flickr new picture,0.0192,#0000FF,
+Flickr new picture,0.0192,#0000FF,
+shark attack,420758.66,#76b4c1,
+killed by falling out of bed,70126.44444,#37151f,http://www.oddee.com/item_98002.aspx
+killed by lightning,70126.44444,#2d92d0,
+bank is robbed,4320,#9a59a2,
+a McDonalds opens in China,86400,#cfadce,http://www.businessinsider.com/facts-about-mcdonalds-blow-your-mind-2011-11?op=1
