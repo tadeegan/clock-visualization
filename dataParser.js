@@ -33,6 +33,8 @@ function render_sidebar(elements){
     table_view.empty();
     for(var i = 0; i < elements.length; i++){
         var element = elements[i];
+        if(i%2 == 0) element.odd = "element-odd";
+        else element.odd = ""
         var render = _.template(template, element);
         table_view.append(render);
     }

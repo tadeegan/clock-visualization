@@ -1,31 +1,31 @@
 Item,Period (sec per instance),Colors,
 Baby is Born,0.23255814,#FFEFEF,
 Someone dies,0.5617977,#4EF13E,
-Visa Payment,0.0005,,
-Someone posts to facebook,2.439*10^-5,,
-Someone post to twitter,6.9833*10^-6(record in 2013),,
-Someone gets injuried in a car accident,14,,
-Average Heart Beat,0.833333,,
-one specie goes extinct ,420,,
-a child dies of hunger,10,,
-eaarthquake,0.003183,,
-linux kernel patch,720,,http://arstechnica.com/information-technology/2010/12/linux-kernel-13-million-lines-over-5-patches-per-hour/
-computer crashes,5.23E-02,,http://www.ask.com/question/how-many-computers-on-average-crash-each-year
-computer sold,0.08878378378,,http://www.statisticbrain.com/computer-sales-statistics/
-cell phones sold,0.06973905352,,http://techcrunch.com/2013/11/14/gartner-456m-phones-sold-in-q3-55-smartphone-android-at-82-share-samsung-a-flat-leader/
-xbox one sold,this number is too volatile per month,,
-ps4 sold,this number is too volatile per month,,
-new startup worldwide,0.6307,,http://www.moyak.com/papers/business-startups-entrepreneurs.html
-computer produced,0.07855,,http://wiki.answers.com/Q/How_many_computers_are_made_a_day?#slide=5
-Mac sold,1.752,,http://www.macworld.com/article/2062821/apple-by-the-numbers-mac-not-dead-yet.html
-Windows sold,0.0876,,http://mashable.com/2012/07/03/mac-vs-pc-sales/
-android sold,0.1538176391,,http://techcrunch.com/2013/11/14/gartner-456m-phones-sold-in-q3-55-smartphone-android-at-82-share-samsung-a-flat-leader/
-iphone sold,1.044238411,,http://techcrunch.com/2013/11/14/gartner-456m-phones-sold-in-q3-55-smartphone-android-at-82-share-samsung-a-flat-leader/
-an email is sent,5.96685*10^-4,,http://marciaconner.com/blog/data-on-big-data/
-app download from apple,1.2766*10^-3,,same as above
-tumblr posts,2.22*10^-3,,same as above
-instgram photos,0.0167,,same as above
-foursquare check-in,0.03,,
-new website launch,0.105,,
-mobile web activity,0.2764,,
-flickr new picture,0.0192,,
+Visa Payment,0.0005,#660066,
+Someone posts to facebook,0.00002439,#0033CC,
+Someone post to twitter,0.0000069833,#00CCFF,
+Someone gets injuried in a car accident,14,#CC3333,
+Average Heart Beat,0.833333,#CC0000,
+one specie goes extinct ,420,#FFFFCC,
+a child dies of hunger,10,#99FF33,
+eaarthquake,0.003183,#996600,
+linux kernel patch,720,#9999CC,http://arstechnica.com/information-technology/2010/12/linux-kernel-13-million-lines-over-5-patches-per-hour/
+computer crashes,5.23E-02,#FF9966,http://www.ask.com/question/how-many-computers-on-average-crash-each-year
+computer sold,0.08878378378,#B0B0B0,http://www.statisticbrain.com/computer-sales-statistics/
+cell phones sold,0.06973905352,#303030,http://techcrunch.com/2013/11/14/gartner-456m-phones-sold-in-q3-55-smartphone-android-at-82-share-samsung-a-flat-leader/
+xbox one sold,this number is too volatile per month,#339900,make something up!
+ps4 sold,this number is too volatile per month,#FFFFFF,
+new startup worldwide,0.6307,#CCFFFF,http://www.moyak.com/papers/business-startups-entrepreneurs.html
+computer produced,0.07855,#CC66FF,http://wiki.answers.com/Q/How_many_computers_are_made_a_day?#slide=5
+Mac sold,1.752,#99CCCC,http://www.macworld.com/article/2062821/apple-by-the-numbers-mac-not-dead-yet.html
+Windows sold,0.0876,#660033,http://mashable.com/2012/07/03/mac-vs-pc-sales/
+android sold,0.1538176391,#66CC00,http://techcrunch.com/2013/11/14/gartner-456m-phones-sold-in-q3-55-smartphone-android-at-82-share-samsung-a-flat-leader/
+iphone sold,1.044238411,#9933FF,http://techcrunch.com/2013/11/14/gartner-456m-phones-sold-in-q3-55-smartphone-android-at-82-share-samsung-a-flat-leader/
+an email is sent,0.000596685,#FF3300,http://marciaconner.com/blog/data-on-big-data/
+app download from apple,0.0012766,#CCCC33,same as above
+tumblr posts,0.00222,#CC9933,same as above
+instgram photos,0.0167,#99FF66,same as above
+foursquare check-in,0.03,#999933,
+new website launch,0.105,#333333,
+mobile web activity,0.2764,#009933,
+flickr new picture,0.0192,#0000FF,

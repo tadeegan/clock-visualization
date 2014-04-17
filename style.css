@@ -5,6 +5,7 @@
     padding-right: 300px;
 }
 
+
 #flow-canvas{
     width: 900px;
     height: 700px;
@@ -13,7 +14,7 @@
     position: fixed;
     top: 0px;
     right: 0px;
-    width: 300px;
+    width: 320px;
     height: 400px;
     background-color: white;
     overflow: scroll;
@@ -22,11 +23,29 @@
 .element{
     box-sizing: border-box;
     padding: 10px;
-    border-style: solid;
     min-height: 50px;
-    border-width: 0 0 1px 0;
+    border-style: solid;
+    border-width: 0 0 0 20px;
     border-color: #AAA;
     background-color: #FFF;
+    background-color: black;
+    color: #FFF;
+
+}
+.element-odd{
+    background-color: #222;
+}
+.element-text{
+    position: absolute;
+    max-width: 250px;
+}
+.element-color-indicator{
+    position: absolute;
+    left: 0px;
+    width: 10px;
+    height: 50px;
+
+    background-color: white;
 }
 .add-button{
     position: absolute;

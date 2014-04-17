@@ -18,9 +18,9 @@
     <script src="particle.js"></script>
     <script src="game.js"></script>
     <script type="text/template" id="particle-row-template">
-        <div class="element">
-            <span><%= name %></span>
-            <button class="add-button pure-button" style='background:<%=color%>;' onclick="addParticle(<%= period %>, 150, '<%=color%>');//time period , radius">add</button>
+        <div class="element <%=odd%>" style='border-color:<%=color%>;'>
+            <div class="element-text"><%= name %></div>
+            <button class="add-button pure-button"  onclick="addParticle(<%= period %>, 150, '<%=color%>');//time period , radius">add</button>
         </div>
     </script>
 </html>
