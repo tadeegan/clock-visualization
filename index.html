@@ -1,25 +1,26 @@
 <html>
     <body>
     </body>
+    <link href="pure.css" rel="stylesheet" type="text/css">
     <link href="style.css" rel="stylesheet" type="text/css">
-    <body style="background-color:#222">
-        <canvas id="flow-canvas" width="500" height="500"></canvas>
-        <table class="selector-table">
-            <tr class="element">
-                <td>
-                    Something.
-                    <button onclick="addParticle(1000,130);//time period , radius">add</button>
-                </td>
-            </tr>
-            <tr class="element">
-                <td>
-                    Something else.
-                    <button onclick="addParticle(2000,100)">add</button>
-                </td>
-            </tr>
-        </table>
+    <body style="background-color:#000">
+        <div class="canvas-container">
+            <canvas id="flow-canvas" width="900px" height="700px"></canvas>
+        </div>
+        <div id="particle-table" class="selector-table">
+            
+        </div>
     </body>
+    <script src="underscore.js"></script>
+    <script src="jquery.js"></script>
+    <script src="dataParser.js"></script>
     <script src="Vector2.js"></script>
     <script src="particle.js"></script>
     <script src="game.js"></script>
+    <script type="text/template" id="particle-row-template">
+        <div class="element">
+            <span><%= name %></span>
+            <button class="add-button pure-button" style='background:<%=color%>;' onclick="addParticle(<%= period %>, 150, '<%=color%>');//time period , radius">add</button>
+        </div>
+    </script>
 </html>

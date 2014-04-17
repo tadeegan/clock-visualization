@@ -26,7 +26,7 @@ var Particle = (function(){
         var current_date = new Date();
         var time_since_creation = current_date.getTime() - this.get_start_date().getTime();
         var num_periods_elapsed = time_since_creation / this.get_time_period();
-        var angle_elapsed = num_periods_elapsed * Math.PI;
+        var angle_elapsed = num_periods_elapsed * 2*Math.PI;
         var xoff = Math.sin(angle_elapsed) * this.get_radius();
         var yoff = Math.cos(angle_elapsed) * this.get_radius();
         var xpos = this.get_center().x + xoff;
@@ -35,7 +35,7 @@ var Particle = (function(){
 
         context.beginPath();
         context.fillStyle = this.get_color();
-        context.arc(xpos, ypos, 5, 0, 2 * Math.PI, false);
+        context.arc(xpos, ypos, 8, 0, 2 * Math.PI, false);
         context.fill();
     }
     return Particle;
